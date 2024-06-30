@@ -43,7 +43,7 @@ export default function App() {
           Skills: C++, C#, Python, JavaScript, React, SQL, Git, GitHub
         </p>
         <p>
-          Summary: A software engineer with a passion for building innovative solutions. I have experience in website development, cyber security, etc. Seeking opportunities in engineering, IT, etc. Please reach out to me at abdullahalshawa20@gmail.com. Thank you!
+          Summary: A software engineer with a passion for building innovative solutions. I have experience in website development, cyber security, etc. Seeking opportunities in engineering, IT, etc. My passion is helping others and I feel that technology is a platform to give back to society! Please reach out to me at abdullahalshawa20@gmail.com. Thank you!
         </p>
       </main>
     </ThemeContext.Provider>

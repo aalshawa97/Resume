@@ -8,7 +8,7 @@ Using the two in conjunction is one of the fastest ways to build a web app.
 
 ### Getting Started
 - Hit run
-- Site: https://58dfbe89-13f6-4d99-a5d2-fa7fd98452b5-00-2x9jpf1dfhkkr.spock.replit.dev/
+- Edit [App.jsx](#src/App.jsx) and watch it live update!
 
 By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the [configuration file](#.replit). Here are the vite docs for [serving production websites](https://vitejs.dev/guide/build.html)
 

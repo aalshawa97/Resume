@@ -48,6 +48,9 @@ export default function App() {
         <p>
           Summary: A software engineer with a passion for building innovative solutions. I have experience in website development, cyber security, etc. Seeking opportunities in engineering, IT, etc. My passion is helping others and I feel that technology is a platform to give back to society! Please reach out to me. Thank you!
         </p>
+        <p>
+          Experience: As Computer Science teacher I teach enjoy teaching object web safety, cybersecurity, oriented programming, etc. Languages I use for students may include Scratch, Python, Java, HTML, CSS, JavaScript, etc. I also may assist with teaching realted courses for Math and Science. 
+        </p>
       </main>
     </ThemeContext.Provider>
   );

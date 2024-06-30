@@ -51,6 +51,9 @@ export default function App() {
         <p>
           Experience: As Computer Science teacher I teach enjoy teaching object web safety, cybersecurity, oriented programming, etc. Languages I use for students may include Scratch, Python, Java, HTML, CSS, JavaScript, etc. I also may assist with teaching realted courses for Math and Science. 
         </p>
+        <p>
+          Education: BSSE in computer software engineering technology with a minor in electrical engineering and renewable energy engineering from the Oregon Institute of Technology. 
+        </p>
       </main>
     </ThemeContext.Provider>
   );

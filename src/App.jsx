@@ -55,6 +55,9 @@ export default function App() {
           Industry Experience: As a Chrome OS Compatibility Testing Engineer at Samson Software Corporation, I have been afforded the unique opportunity to spearhead a project focused on bug triage. This project has allowed me to drastically expand my predictive analytics and behavior analysis capabilities. Through my experience, the project has produced substantial profitable results for Google. Chrome OS testing for end client Google LLC through HCL. Bug triage for PlayStore applications. IT imaging machines and running Python scripts for testing. Setting up and configuring desktop, mobile, ethernet devices, and server platforms. 
         </p>
         <p>
+          Internship Experience: Worked in Intel Platform Security Division and closely collaborated with some of the brightest minds in the company to work on developing and validating Intel security software. We worked on security software such as Intel SGX (Software Guard Extensions), Intel Data Guard, Intel Authenticate, and a memory scanner. C++ validation for search patterns and other regular expressions. Installed and labeled data center equipment including network devices and storage devices. 
+        </p>
+        <p>
           Education: BSSE in computer software engineering technology with a minor in electrical engineering and renewable energy engineering from the Oregon Institute of Technology. 
         </p>
       </main>

@@ -2,6 +2,7 @@ import React from 'react';
 import ThemeContext from './ThemeContext';
 import theme from './theme';
 import { useTheme } from './ThemeContext';
+import profileImage from './profile.png';
 
 function ThemedComponent() {
   const theme = useTheme();
@@ -28,6 +29,7 @@ export default function App() {
         padding: theme.spacing.medium,
       }}>
         <h1>Software Engineer</h1>
+        <img src={profileImage} alt="Profile" style={{ maxWidth: '100%', borderRadius: '50%' }} />
         <p>
           LinkedIn: 
           <a 

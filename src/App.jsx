@@ -38,7 +38,7 @@ export default function App() {
             rel="noopener noreferrer"
             style={{ color: theme.colors.primary, textDecoration: 'none' }}
           >
-            Abdullah Alshawa
+             Abdullah Alshawa
           </a>
         </p>
         <p>
@@ -49,7 +49,7 @@ export default function App() {
             rel="noopener noreferrer"
             style={{ color: theme.colors.primary, textDecoration: 'none' }}
           >
-            Projects
+             Projects
           </a>
         </p>
         <p>

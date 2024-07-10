@@ -42,6 +42,17 @@ export default function App() {
           </a>
         </p>
         <p>
+          GitHub: 
+          <a 
+            href="https://github.com/aalshawa97"
+            target="_blank"
+            rel="noopener noreferrer"
+            style={{ color: theme.colors.primary, textDecoration: 'none' }}
+          >
+            Projects
+          </a>
+        </p>
+        <p>
           Skills: C++, C#, Python, JavaScript, React, SQL, Git, GitHub
         </p>
         <p>
